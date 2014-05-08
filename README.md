@@ -9,7 +9,9 @@ Each pair of people starts with the same codebase as everyone else and they work
 * Is shorter than it was before (not counting tests)
 * It's functioning exactly like it was before
 
-You are allowed to do anything you like with the code in order to make it "better". The only rule is: **you mustn't break / change funcionality**
+You are allowed to do anything you like with the code in order to make it "better".
+
+The only rule is: **you mustn't break / change funcionality**
 
 ## Format
 
